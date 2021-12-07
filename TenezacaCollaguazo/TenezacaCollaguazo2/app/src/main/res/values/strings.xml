@@ -2,4 +2,6 @@
     <string name="app_name">Ejercicio2_TenezacaCollaguazo</string>
     <string name="num1CJ"> Número A</string>
     <string name="num2CJ"> Número B</string>
+    <string name="sumaCJ"> Resta</string>
+    <string name="reslCJ"> RESULTADO ==> </string>
 </resources>

@@ -39,4 +39,20 @@
         android:inputType="number"
         tools:layout_editor_absoluteX="168dp"
         tools:layout_editor_absoluteY="183dp" />
+
+    <Button
+        android:id="@+id/btnSumaCJ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/sumaCJ"
+        tools:layout_editor_absoluteX="456dp"
+        tools:layout_editor_absoluteY="104dp" />
+
+    <TextView
+        android:id="@+id/txtResCJ"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/reslCJ"
+        tools:layout_editor_absoluteX="172dp"
+        tools:layout_editor_absoluteY="287dp" />
 </androidx.constraintlayout.widget.ConstraintLayout>
