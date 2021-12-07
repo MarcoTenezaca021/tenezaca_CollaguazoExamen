@@ -30,6 +30,6 @@ public class MainActivity extends AppCompatActivity {
         n2 = Integer.parseInt(num2CJ.getText().toString());
         resta = n1- n2;
 
-        
+        ResCJ.setText("Resultado : "+ resta);
     }
 }

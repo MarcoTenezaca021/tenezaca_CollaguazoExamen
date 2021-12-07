@@ -1,0 +1,4 @@
+com/example/ejercicio2_tenezacacollaguazo/BuildConfig.java
+ com.example.ejercicio2_tenezacacollaguazo.BuildConfig
+com/example/ejercicio2_tenezacacollaguazo/MainActivity.java
+ com.example.ejercicio2_tenezacacollaguazo.MainActivity
